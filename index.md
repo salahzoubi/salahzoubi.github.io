@@ -6,7 +6,7 @@ This project serves as a proof-of-concept for traditionally coded Amidar agents 
 <img src="https://media.giphy.com/media/JmhTts7Len94Pf1C2l/giphy.gif" width="600" height="350" alt="centered image">
 
 
-PDF LINK
+Full Article (PDF):[link](https://pdfhost.io/v/4neOFC73U_Constructing_HighPerformance_Amidar_Agents_using_Traditional_Programming.pdf)
 
 ## Welcome to GitHub Pages
 
