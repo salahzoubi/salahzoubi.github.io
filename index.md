@@ -1,3 +1,11 @@
+
+## Constructing Robust, High-Performance Amidar Agents (Undergraduate Research)
+
+This project serves as a proof-of-concept for traditionally coded Amidar agents that are capable of generalizing their game-play to different contexts. These agents employ a combination of mutually exclusive strategies to navigate their way through the Amidar environment. They are successful in beating the first level of Amidar when there are less than 3 enemies in the game and perform reasonably well when there are less than 4 enemies. Ideally, the performance of these agents will be compared to the performance of reinforcement learning agents, trained on the same task, and will provide deeper insight into explaining the actions of these reinforcement learning agents. 
+
+VIDEO LINK
+PDF LINK
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/salahzoubi/salahzoubi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
