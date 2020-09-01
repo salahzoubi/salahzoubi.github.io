@@ -3,10 +3,9 @@
 
 This project serves as a proof-of-concept for traditionally coded Amidar agents that are capable of generalizing their game-play to different contexts. These agents employ a combination of mutually exclusive strategies to navigate their way through the Amidar environment. They are successful in beating the first level of Amidar when there are less than 3 enemies in the game and perform reasonably well when there are less than 4 enemies. Ideally, the performance of these agents will be compared to the performance of reinforcement learning agents, trained on the same task, and will provide deeper insight into explaining the actions of these reinforcement learning agents. 
 
-<img src="https://media.giphy.com/media/JmhTts7Len94Pf1C2l/giphy.gif" width="600" height="350" alt="centered image">
+<img src="https://media.giphy.com/media/JmhTts7Len94Pf1C2l/giphy.gif" width="600" height="350" img align="center">
 
-
-Full Article (PDF):[link](https://pdfhost.io/v/4neOFC73U_Constructing_HighPerformance_Amidar_Agents_using_Traditional_Programming.pdf)
+[Full Article (PDF):](https://pdfhost.io/v/4neOFC73U_Constructing_HighPerformance_Amidar_Agents_using_Traditional_Programming.pdf)
 
 ## Welcome to GitHub Pages
 
