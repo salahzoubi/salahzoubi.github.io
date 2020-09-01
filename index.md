@@ -5,7 +5,18 @@ This project serves as a proof-of-concept for traditionally coded Amidar agents 
 
 <img src="https://media.giphy.com/media/JmhTts7Len94Pf1C2l/giphy.gif" width="600" height="350" img align="center">
 
-[Full Article (PDF):](https://pdfhost.io/v/4neOFC73U_Constructing_HighPerformance_Amidar_Agents_using_Traditional_Programming.pdf)
+[Full Article (PDF)](https://pdfhost.io/v/4neOFC73U_Constructing_HighPerformance_Amidar_Agents_using_Traditional_Programming.pdf)
+
+
+## Classifiying Toxicity in Online Wikipedia Comments
+
+<img src="https://3.bp.blogspot.com/-NUvWUOA4UUM/XcEuiroLuJI/AAAAAAAAJ1o/jPAswUodLuwn-Hc3RVhu-6xmTeB9ZfgAACLcBGAsYHQ/s1600/most-toxic-chart.png">
+
+This project is concerned with classifiying toxicity in Wikipedia comments. It employs multiple classification techniques, such as Naive Bayes, Logistic Regression and RNN's, to detect any harmful/toxic comments. This project also proposes novel implementations in the field of NLP such as Transformers (specification is for BERT models). The classifiers achieve a classfication accuracy of 96%. 
+
+[Full Article (PDF](https://pdfhost.io/v/LEBGoGZbR_cs585_final_report__Copy_pdf.pdf)
+
+
 
 ## Welcome to GitHub Pages
 
